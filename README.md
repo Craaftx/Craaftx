@@ -20,11 +20,11 @@ You can contact me on [LinkedIn][linkedin], [Twitter][twitter] or [Malt][malt].
 
 #### CSS Blog 📚
 I share tips, Front-End and CSS oriented articles on a French technical blog.  
-https://dorianguilmain.substack.com/
+https://blog.dorianguilmain.com/
 
 #### Newsletter 📫
 I regularly publish a newsletter that talks about CSS and Front-End development.  
-https://blog.dorianguilmain.com 
+https://dorianguilmain.substack.com 
 
 #### Only CSS creations 👀 
 I create illustrations and experiments with a **LOT** of CSS  
