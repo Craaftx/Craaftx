@@ -68,7 +68,7 @@ https://codepen.io/Craaftx
 <br />
 <br />
 
-<img alt="CSS is the best programming language and it can be a job" src="https://raw.githubusercontent.com/Craaftx/Craaftx/main/changemymind.jpg" />
+<img alt="CSS is the best programming language and it can be a job" src="https://raw.githubusercontent.com/Craaftx/Craaftx/main/yes.jpg" />
 
 [malt]: https://www.malt.fr/profile/dorianguilmain
 [website]: https://dorianguilmain.com
