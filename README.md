@@ -9,7 +9,7 @@
 - ⚛ I work with React or anything Javascript oriented.
 - 👨‍🎓 I also like mentoring and teaching, so don't hesitate if you need a speaker.
 - 🧨 If you have big problems with your CSS, I can repair that.
-- 🥅 2021 Goals: Work with Lego on an amazing project.
+- 🥅 Random Goal: Work with Lego on an amazing project.
 You can contact me on [LinkedIn][linkedin], [Twitter][twitter] or [Malt][malt].
 
 <br />
